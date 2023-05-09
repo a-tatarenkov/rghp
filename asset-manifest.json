@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rghp/static/css/main.ff9b8b63.css",
-    "main.js": "/rghp/static/js/main.88c14147.js",
+    "main.js": "/rghp/static/js/main.5a74b42d.js",
     "static/media/img_section1.jpg": "/rghp/static/media/img_section1.2b80798d05786e645429.jpg",
     "static/media/BMW_logo_(gray).svg.png": "/rghp/static/media/BMW_logo_(gray).svg.2fd3df7723fd516105b9.png",
     "index.html": "/rghp/index.html",
     "main.ff9b8b63.css.map": "/rghp/static/css/main.ff9b8b63.css.map",
-    "main.88c14147.js.map": "/rghp/static/js/main.88c14147.js.map"
+    "main.5a74b42d.js.map": "/rghp/static/js/main.5a74b42d.js.map"
   },
   "entrypoints": [
     "static/css/main.ff9b8b63.css",
-    "static/js/main.88c14147.js"
+    "static/js/main.5a74b42d.js"
   ]
 }
