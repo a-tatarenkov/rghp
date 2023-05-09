@@ -1,0 +1,19 @@
+main {
+  background-color: #3c5ede;
+  section {
+    display: flex;
+    padding: 40px;
+  }
+  .Cards {
+    display: flex;
+    flex-wrap: wrap;
+    .Card {
+      width: 200px;
+      margin: 20px;
+      background-color: #f65151;
+      img {
+        width: 100%;
+      }
+    }
+  }
+}
