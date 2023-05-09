@@ -8,6 +8,11 @@ const App = (props) => {
     return (
         <div className="App">
             <h1>HELLO!!!!!!!!</h1>
+            <h1>HELLO!!!!!!!!</h1>
+            <h1>HELLO!!!!!!!!</h1>
+            <h1>HELLO!!!!!!!!</h1>
+            <h1>HELLO!!!!!!!!</h1>
+            <h1>HELLO!!!!!!!!</h1>
             <Header linksToProps={props.data.header.links} logoToProps={props.data.header.logo} />
             <Main section1ToProps={props.data.section1} section2ToProps={props.data.section2}/>
             <Footer linksToProps={props.data.header.links} logoToProps={props.data.header.logo} />
